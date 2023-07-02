@@ -1,0 +1,9 @@
+.myBtn{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 1rem;
+    background-color:  transparent;
+}
